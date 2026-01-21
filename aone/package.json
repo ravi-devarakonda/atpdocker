@@ -6,7 +6,7 @@
     "crypto": "0.0.3",
     "express": "^4.22.1",
     "jwt-simple": "^0.5.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
     
   },
   "devDependencies": {},
